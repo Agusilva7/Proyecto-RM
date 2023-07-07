@@ -1,0 +1,47 @@
+.texto{
+    color:rgb(0, 0, 0);
+   
+    
+}
+.contenedor{
+    border: 1rem black solid;
+    border-radius: 1rem;
+    width: 25rem;
+    /* margin-top: 4rem; */
+    background-color: beige;
+    
+}
+.div{
+    display: flex;
+    justify-content: center;
+}
+.img{
+    justify-content:center;
+    display: flex;
+     
+    
+}
+.nube{
+    margin-top: -3rem;
+    margin-bottom: 17rem;
+    display:list-item;
+    text-align: left;
+    margin-top: -35rem;
+   
+
+     
+}
+.errores{
+    display:list-item;
+    text-align: left;
+    margin-top: -34rem;
+    margin-left: 5.8rem;
+    width: 20rem;
+}
+.validacion{
+    font-size: 1.2rem;
+}
+
+.foto{
+    align-items: center;
+}

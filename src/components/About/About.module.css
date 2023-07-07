@@ -1,0 +1,31 @@
+.imagen{
+    margin-top: 2rem;
+}
+.titulo{
+    font-family:Verdana, sans-serif;
+    font-size: 2rem;
+    margin-top: -3rem;
+    color:rgb(49, 3, 76);
+    
+
+}
+
+.datos{
+    display:center
+}
+
+.a{
+    color:indianred;
+    background-color: indigo;
+}
+.p{
+    background-color: indianred;
+    width: 50rem;
+    display: flex;
+    margin-left: 25%;
+    
+}
+.texto{
+    font-family:Verdana, sans-serif;
+    font-size: 1.4rem;
+}

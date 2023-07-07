@@ -1,0 +1,29 @@
+.button{
+    background-color:white;
+    color:rgb(0, 0, 0);
+    border-radius: 1rem;
+    border-color:rgb(0, 0, 0);
+    cursor:pointer;
+    padding: 1rem;
+    margin: 0.8rem;
+}
+.input:hover,
+.button:hover{
+    filter: drop-shadow(0.5rem 0.5rem 0.5rem rgb(255, 0, 111)) invert(1%);
+
+}
+.input{
+    margin-top: 1rem;
+    border-radius: 1rem;
+   background-color: white;
+    color:indigo;
+   border:0.2rem solid rgb(0, 0, 0);
+   cursor:pointer;
+    padding: 1rem;
+    
+}
+.div{
+    width: 20rem;
+    background-color: rgb(43, 5, 78);
+   
+}

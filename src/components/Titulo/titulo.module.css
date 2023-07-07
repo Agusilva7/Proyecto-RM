@@ -1,0 +1,13 @@
+.titulo{
+  margin-top: 1rem;
+
+   transition: 0.5s;
+   
+}
+.titulo:hover{
+    transform: scale(1.2);
+}
+.contenedor{
+
+    background-position: center;
+}

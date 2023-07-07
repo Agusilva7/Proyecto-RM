@@ -1,0 +1,18 @@
+.nav{
+    background:linear-gradient(
+    to left,
+    rgba(7,27,82,1)50%,
+    rgb(55, 0, 100)100%
+  );
+  
+}
+.button1,
+.button2,
+.button3,
+.button{
+  font-size: 1.5rem;
+  background-color:rgb(244, 13, 244);
+  border-radius: 1rem;
+ 
+}
+
